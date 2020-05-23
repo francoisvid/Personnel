@@ -8,4 +8,4 @@ Blog fitness | Wordpress | https://gitlab.com/francoisvid/blog
 Alarme | Javascript | https://github.com/francoisvid/alarme
 Homies | Swift | https://github.com/francoisvid/homies/
 Test Diadao | Javascript | https://gitlab.com/francoisvid/test_diadao
-My password | VueJS | https://github.com/francoisvid/MyPassword
+My password | VueJS/NodeJS | https://github.com/francoisvid/mypassword
